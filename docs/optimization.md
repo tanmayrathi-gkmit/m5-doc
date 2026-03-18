@@ -39,21 +39,21 @@ locust -f locustfile.py
 ### Locust Load Testing 
 
 **Users - 500**
-<iframe src="/assets/ramp_up_500_users_local.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/ramp_up_500_users_local.html" width="100%" height="500px"></iframe>
 
 **Users - 1000**
-<iframe src="/assets/hight_ramp_failure.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/hight_ramp_failure.html" width="100%" height="500px"></iframe>
 
 ### Pyinstrument
 
 **Login API**
-<iframe src="/assets/_api_v1_auth_login_ 1773741268.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/_api_v1_auth_login_1773741268.html" width="100%" height="500px"></iframe>
 
 **Login Verify API**
-<iframe src="/assets/_api_v1_auth_verify-login_ 1773741408.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/_api_v1_auth_verify-login_1773741408.html" width="100%" height="500px"></iframe>
 
 ### Django Silk
 
-<iframe src="/assets/silk-index.html" width="100%" height="500px"></iframe>
-<iframe src="/assets/silk-request-detail_api_v1_tenant-games_.html" width="100%" height="500px"></iframe>
-<iframe src="/assets/silk-SQL_api_v1_tenant-games_.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/silk-index.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/silk-request-detail_api_v1_tenant-games_.html" width="100%" height="500px"></iframe>
+<iframe src="../assets/silk-SQL_api_v1_tenant-games_.html" width="100%" height="500px"></iframe>
