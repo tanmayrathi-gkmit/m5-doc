@@ -743,7 +743,7 @@
 <p>GamerHouse uses a fully automated CI/CD pipeline built on GitHub Actions. Every push to the <code>dev</code> branch (or merged pull request) triggers a test run, a Docker image build, and deployment to an AWS EC2 instance.</p>
 <p>The production runtime is a Docker Compose stack with five services: a Django/Gunicorn web server, PostgreSQL, Redis, a Celery worker, and Celery Beat. Nginx on the EC2 host acts as a reverse proxy and serves static files directly.</p>
 <h2 id="flow">Flow</h2>
-<p><img alt="Flow" src="../assets/ci-cd-flow2.svg" style="width:30%;  display: block; margin: auto;" /></p>
+<p><img alt="Flow" src="../assets/ci-cd-flow3.svg" style="width:30%;  display: block; margin: auto;" /></p>
 <h2 id="tools-for-cicd-docker">Tools for CI/CD - Docker</h2>
 <ul>
 <li><strong>Docker</strong>: Containerizing the application for consistency.</li>
